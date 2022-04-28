@@ -1,0 +1,13 @@
+.grid{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    column-gap: 40px;
+}
+
+.card{
+    margin-bottom: 10px;    
+}
+
+.title{
+    margin-bottom: 0px;
+}
